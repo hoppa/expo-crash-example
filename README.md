@@ -1,4 +1,4 @@
-# Primer SDK Expo Crash Example
+# Expo Crash Example
 This repo is a minimum reproducable example for an issue where the Android app crashes on launch when the Primer SDK is installed alongside `expo-dev-client`
 
 
